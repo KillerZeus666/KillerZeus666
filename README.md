@@ -1,13 +1,13 @@
 # ⚡ Hola ⚡
 
-👋 Soy Kathe, una estudiante de **Ingeniería de Sistemas** en 6º semestre en la **Pontificia Universidad Javeriana 🇨🇴**.
+👋 Soy Kathe, una estudiante de **Ingeniería de Sistemas** en 5º semestre en la **Pontificia Universidad Javeriana 🇨🇴**.
 
 ---
 
 ## 🧠 Sobre mí
 
 ✨ Me apasiona aprender constantemente y experimentar con tecnologías nuevas.  
-🧩 Me gusta resolver problemas con creatividad, lógica y una taza de café.  
+🧩 Me gusta resolver problemas con creatividad y lógica.  
 🚀 Soñando con construir software útil, ético y escalable.
 
 ---
