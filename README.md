@@ -50,7 +50,7 @@
 ## 📫 Conéctate conmigo
 
 - ✉️ Katheryng2017@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com) (¡pon tu perfil aquí!)  
+- 🔗 [LinkedIn]
 
 
 ---
