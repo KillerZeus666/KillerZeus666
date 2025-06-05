@@ -21,17 +21,17 @@
 `HTML` | `CSS` | `JavaScript` | `React` (aprendiendo)  
 
 > **Backend & Frameworks**  
-`Spring Boot` | `Node.js` (básico) | `Maven` | `Postman`  
+`Spring Boot` | `Node.js`  | `Maven` | `Postman`  
 
 > **Bases de Datos**  
-`MySQL` | `PostgreSQL` | `MongoDB` (aprendiendo)
+`MySQL` | `PostgreSQL` | `MongoDB`
 
 > **Herramientas y entornos**  
 `Android Studio` | `RStudio` | `VSCode` | `Git & GitHub`  
 
 ---
 
-## 📊 Stats (modo nerd activado)
+## 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KillerZeus666&layout=compact&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KillerZeus666&show_icons=true&theme=tokyonight)
