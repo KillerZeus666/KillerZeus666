@@ -70,11 +70,15 @@
 ### Tools & Platforms:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring-Boot)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android-studio)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
@@ -82,19 +86,12 @@
 ### 🌐 Languages & Certifications:
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ14GkT9B2JgcmPLLPTxmnC-l_KzhMExrhL2w&s" height="50" alt="Centro Colombo Americano Logo"/>
+  <img src="https://dev-bmanga.colombobogota.edu.co/wp-content/uploads/2025/04/LOGO-BOGOTA.png" height="50" alt="Centro Colombo Americano Logo"/>
   <p><strong>English B2</strong> - Centro Colombo Americano</p>
 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSej1gPfaWjyon6xwZXu_6Wcis4l1uaNvQ&s" height="50" alt="Smart Logo"/>
+  <img src="https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png" height="50" alt="Smart Logo"/>
   <p><strong>French C1</strong> - Smart</p>
 </div>
-
-### ⚙️ Additional Tools:
-&emsp;
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=Spring-Boot)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android-studio)
 
 ## 🤝 Connect With Me
 <p align="center">
