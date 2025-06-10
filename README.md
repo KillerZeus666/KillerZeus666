@@ -99,16 +99,16 @@
 ### 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kathe-guasca-73a93b35a/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/killerZeus666" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" height="50" width="50" />
+  <a href="mailto:katheryng2017@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="50" width="50" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/_kathee_26/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" height="50" width="50" />
+    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" height="50" width="50" alt="Instagram"/>
   </a>
-  <a href="https://discordapp.com/users/killerZeus666" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" height="50" width="50" />
+  <a href="mailto:ksofia.guasca@javeriana.edu.co" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="50" width="50" alt="Outlook"/>
   </a>
 </p>
 
