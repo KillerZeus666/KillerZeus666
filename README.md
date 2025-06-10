@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katheryn Guasca</h1>
 <h3 align="center">A passionate Systems Engineering student and frontend developer from Colombia</h3>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="center">
   🎓 I'm currently in my sixth semester of Systems Engineering at Pontificia Universidad Javeriana.<br>
   🔐 I’m passionate about cybersecurity and exploring different programming languages and paradigms.<br>
