@@ -89,7 +89,7 @@
   <img src="https://dev-bmanga.colombobogota.edu.co/wp-content/uploads/2025/04/LOGO-BOGOTA.png" height="50" alt="Centro Colombo Americano Logo"/>
   <p><strong>English B2</strong> - Centro Colombo Americano</p>
 
-  <img src="https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png" height="50" alt="Smart Logo"/>
+  <img src="[https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png](https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png)" height="50" alt="Smart Logo"/>
   <p><strong>French C1</strong> - Smart</p>
 </div>
 
