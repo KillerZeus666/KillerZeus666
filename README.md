@@ -16,11 +16,7 @@
       alt="stats graph"
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=killerzeus666&theme=radical"
     />
-    <img
-      height="150"
-      alt="languages graph"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=killerzeus666&theme=radical"
-    />
+
   </div>
 </td>
 
