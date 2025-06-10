@@ -9,19 +9,15 @@
   </a>
 </div>
 
-
 <!--- stats & Trophy (start) -->
-<!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<tr>
 <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=killerzeus666&theme=radical&show_icons=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
   <br><br>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=killerzeus666&theme=transparent&background=45%2C000000%2C130F40&border=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&stroke=D3D3D3&sideNums=D3D3D3&ring=2234AE&currStreakLabel=D3D3D3&dates=D3D3D3&excludeDaysLabel=D3D3D3" alt="GitHub Streak" />
   </a>
-  <br><br>
-
 </td>
 
 <td width="50%" align="center">
@@ -29,8 +25,6 @@
 </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
 
 <!--- trophy (start) -->
 <div align="center">
@@ -39,17 +33,14 @@
   </a>
 </div>
 
-</p>        
-<!--- stats (end) -->
-
 <!-- gradient line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Skills -->
 ### 🛠️ My Skills
 
-### Programming languages:
-&emsp;
+#### Programming languages:
+&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -61,24 +52,24 @@
 ![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=lisp)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Frontend development:
-&emsp;
+#### Frontend development:
+&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-### Databases:
-&emsp;
+#### Databases:
+&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
-### Tools & Platforms:
-&emsp;
+#### Tools & Platforms:
+&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -87,7 +78,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
 
 <!-- Connect with me -->
 ## 🤝 Connect With Me
@@ -98,5 +88,5 @@
 <a href="https://discordapp.com/users/killerZeus666" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" height="50" width="50" /></a>
 </p>
 
-
+<!-- final gradient -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
