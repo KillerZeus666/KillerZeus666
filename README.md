@@ -1,10 +1,10 @@
-<p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/KillerZeus666">Kathe</a>'s Profile 👋</h1>
-</p>
+<div align="center">
+  <h1>Welcome to <a href="https://github.com/KillerZeus666">Kathe</a>'s Profile 👋</h1>
 
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hi!+I'm+Katheryn+from+Colombia;I+am+a+Full+Stack+Developer;I+love+learning+new+things;I+enjoy+building+web+apps;Thanks+for+visiting+my+GitHub!" />
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Hi!+I'm+Katheryn+from+Colombia;I+am+a+Full+Stack+Developer;I+love+learning+new+things;I+enjoy+building+web+apps;Thanks+for+visiting+my+GitHub!" />
+  </a>
+</div>
 
 
 <!--- stats & Trophy (start) -->
