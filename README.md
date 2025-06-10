@@ -41,8 +41,12 @@
 
 </p>        
 <!--- stats (end) -->
+
+<!-- gradient line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Skills -->
-## 🛠️ My Skills
+### 🛠️ My Skills
 
 ### Programming languages:
 &emsp;
@@ -101,9 +105,6 @@
     <img src="https://visitcount.itsvg.in/api?id=killerZeus666&icon=3&color=6" />
   </a>
 </div>
-
-<!-- gradient line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
