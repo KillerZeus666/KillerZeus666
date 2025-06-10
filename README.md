@@ -82,15 +82,18 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
-<!-- Certifications and Tools -->
 ### 🌐 Languages & Certifications:
 
-<div align="center">
-  <img src="https://dev-bmanga.colombobogota.edu.co/wp-content/uploads/2025/04/LOGO-BOGOTA.png" height="50" alt="Centro Colombo Americano Logo"/>
-  <p><strong>English B2</strong> - Centro Colombo Americano</p>
-
-  <img src="[https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png](https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png)" height="50" alt="Smart Logo"/>
-  <p><strong>French C1</strong> - Smart</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <div>
+    <img src="https://dev-bmanga.colombobogota.edu.co/wp-content/uploads/2025/04/LOGO-BOGOTA.png" height="50" alt="Centro Colombo Americano Logo"/>
+    <p><strong>English B2</strong> - Centro Colombo Americano</p>
+  </div>
+  
+  <div>
+    <img src="https://yekoclub-partner-content.sfo3.digitaloceanspaces.com/partner/596.df1f00b9-7d11-426e-bfab-394abfc84cc5.png" height="50" alt="Smart Logo"/>
+    <p><strong>French C1</strong> - Smart</p>
+  </div>
 </div>
 
 ## 🤝 Connect With Me
