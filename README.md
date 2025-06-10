@@ -99,17 +99,5 @@
 <a href="https://discordapp.com/users/killerZeus666" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" height="50" width="50" /></a>
 </p>
 
-<!-- profile visit count -->
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=killerZeus666&icon=3&color=6" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<p><img align="center" src="https://raw.githubusercontent.com/KillerZeus6666/Killerzeus666/667c32cfe81ef8cd755a53cf4ffd13f00d4165c5/github-metrics.svg" alt="Metrics" width="800" /></p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
