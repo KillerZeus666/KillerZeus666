@@ -9,15 +9,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=killerzeus666&theme=transparent&background=45%2C000000%2C130F40&border=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideLabels=D3D3D3&stroke=D3D3D3&sideNums=D3D3D3&ring=2234AE&currStreakLabel=D3D3D3&dates=D3D3D3&excludeDaysLabel=D3D3D3" alt="GitHub Streak" />
   </a>
   <br><br>
-  <!-- stats cards side by side -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img
-      height="150"
-      alt="stats graph"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=killerzeus666&theme=radical"
-    />
 
-  </div>
 </td>
 
 <td width="50%" align="center">
