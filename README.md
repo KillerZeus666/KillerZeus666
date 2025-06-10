@@ -41,7 +41,6 @@
 
 </p>        
 <!--- stats (end) -->
-
 <!-- Skills -->
 ## 🛠️ My Skills
 
@@ -50,15 +49,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![Prolog](https://img.shields.io/badge/-Prolog-000?&logo=prolog)
+![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=lisp)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
@@ -68,6 +70,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 ### Tools & Platforms:
 &emsp;
@@ -75,9 +79,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
----
 
 <!-- Connect with me -->
 ## 🤝 Connect With Me
