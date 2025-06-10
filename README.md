@@ -92,7 +92,7 @@
   
   <div>
     <img src="https://www.colmenaseguros.com/documents/d/guest/img-logo-smart-png?download=true" height="50" alt="Smart Logo" style="object-fit: contain;"/>
-    <p><strong>French C1</strong> - Smart</p>
+    <p><strong>French B2</strong> - Smart</p>
   </div>
 </div>
 
