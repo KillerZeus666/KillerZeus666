@@ -64,6 +64,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Microsoft Access](https://img.shields.io/badge/-Access-000?&logo=microsoft-access)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
@@ -81,6 +82,8 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android-studio)
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
+![SAP](https://img.shields.io/badge/-SAP-000?&logo=sap)
 
 ### 🌐 Languages & Certifications:
 
